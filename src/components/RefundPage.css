@@ -1,0 +1,58 @@
+.settingBg{
+    background-color: #284150;
+    width: 45%;
+    border-radius: 14px;
+    /* height: 400px; */
+
+}
+.alignCenterInput{
+    align-items: center;
+    text-align: center;
+}
+.titleRefundSetng{
+    text-align: center;
+    align-items: center;
+    color: white;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 65px;
+}
+.aligncenterTopContainer{
+    margin-top: 10%;
+}
+.lableStng{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 45px;
+color: white;
+}
+.textAlignCenter{
+    align-items: center;
+    text-align: center;
+}
+.inputFieldSetting{
+    border: 1px solid #94A0A7;
+box-sizing: border-box;
+border-radius: 7px;
+background-color: transparent;
+padding: 2%;
+}
+.setAlignBtn{
+    margin-left: 30%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.btnSubmitSetting{
+    background: #AE0E27;
+    border-radius: 7px;
+    width: 187px;
+    height: 45px;
+}
+.setErrorsColor{
+    color: white;
+    margin: 2%;
+}

@@ -1,0 +1,62 @@
+.setColorsNavbar{
+    color: red;
+    text-decoration: none;
+    font-style: 'Montserrat';
+    font-weight: 500;
+}
+.alignCenter{
+    text-align: center;
+    align-items: center;
+}
+.setColorsNavbar:hover{
+    color: red;
+    text-decoration: none;
+}
+.borderSetting{
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    font-size: 14px;
+    border-color: white;
+}
+.borderSetting:hover{
+    color: white;
+}
+.setColorsNavbar1{
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+.setColorsNavbar1:hover{
+    color: white;
+    text-decoration: none;
+}
+/* new Navbar CSSS */
+.commonColorNavbar{
+    color:white !important;
+}
+.btnNavbarSet{
+    border-radius: 5px;
+    color: white;
+    border: 1px solid #E5E5E5;
+    box-sizing: border-box;
+
+}
+.btnNavbarSet:hover{
+    color: white;
+}
+.color1Setng{
+    color: #FF0028 !important;
+}
+.togglebtnBorder{
+    border-radius: 5px;
+    border: 1px solid #E5E5E5 !important;
+}
+
+.navbar-toggler .line{
+    width: 100%;
+    float: left;
+    height: 2px;
+    background-color: #fff;
+    margin-bottom: 30%;
+}
